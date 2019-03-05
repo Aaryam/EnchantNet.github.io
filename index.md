@@ -1,3 +1,8 @@
+theme: jekkyl-theme-cayman
+title: EnchantNet
+description: The website for EnchantNet, the minehut server!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Aaryam/EnchantNet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
